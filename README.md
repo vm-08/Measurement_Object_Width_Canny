@@ -47,7 +47,8 @@ Measurement_Object_Width_Canny
 ├── dataset/                         # contains datasets for both objects
 │   ├── Bosch Rexroth Profile.zip    # for the two widths of the Bosch profile
 │   └── Dowel Pin.zip                # for the diameter of the dowel pin
-└── Measurement_of_object_width.m/   # source code to calculate object width 
+├── Measurement_of_object_width.m    # source code to calculate object width
+└── README.md                        # contains important information regarding the project
 ```
 
 ### Brief algorithm description
